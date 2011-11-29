@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <id>Pavlov</id>
+    <version>0.3.0</version>
+    <authors>Michael Monteleone (Pavlov), Daniel Mohl (NuGet Package)</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Pavlov extends JavaScript testing framework QUnit with a rich, higher-level, Behavioral API.</description>
+    <summary>Pavlov extends JavaScript testing framework QUnit with a rich, higher-level, Behavioral API .</summary>
+    <language>en-US</language>
+    <projectUrl>https://github.com/mmonteleone/pavlov</projectUrl> 
+    <licenseUrl>http://code.google.com/p/mockito/wiki/License</licenseUrl>
+  </metadata>
+  <files>
+	<file src="Content\Scripts\Specs\*.pp" target="content\Scripts\Specs"/>
+  </files>
+</package>
