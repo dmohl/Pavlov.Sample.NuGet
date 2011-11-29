@@ -5,7 +5,7 @@
     <version>0.3.0</version>
     <authors>Michael Monteleone (Pavlov), Daniel Mohl (NuGet Package)</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Pavlov extends JavaScript testing framework QUnit with a rich, higher-level, Behavioral API. Note: It is expected that Mindscape Web Workbench (http://visualstudiogallery.msdn.microsoft.com/2b96d16a-c986-4501-8f97-8008f9db141a) be installed to use the CoffeeScript aspects of this package.</description>
+    <description>Pavlov extends JavaScript testing framework QUnit with a rich, higher-level, Behavioral API. Note: The Mindscape Web Workbench (http://visualstudiogallery.msdn.microsoft.com/2b96d16a-c986-4501-8f97-8008f9db141a) should be installed in order to use the CoffeeScript aspects of this package.</description>
     <summary>Pavlov extends JavaScript testing framework QUnit with a rich, higher-level, Behavioral API .</summary>
     <language>en-US</language>
     <projectUrl>https://github.com/mmonteleone/pavlov</projectUrl> 
